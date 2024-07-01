@@ -1,0 +1,24 @@
+Users
+
+
+(There are no restrictions for these two accounts. Both accounts can access all activities.)
+
+--> Superadmin
+
+Username:
+ismailguler
+
+Password:
+useradmin00
+
+
+--> Another User
+
+Username:
+employeeadmin
+
+Password:
+loginsystem1
+
+
+
